@@ -1,4 +1,4 @@
-# FPGA Tabanlı 4x4 Matris Keypad Sürücüsü ve Özel PCB Tasarımı (Basys 3)
+# Basys3 FPGA Tabanlı 4x4 Matris Keypad Sürücüsü ve Özel PCB Tasarımı
 ### 🇬🇧 FPGA Based 4x4 Matrix Keypad Driver & Custom PCB Design
 
 ![University](https://img.shields.io/badge/Kocaeli%20University-EHM-green)
